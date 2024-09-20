@@ -1,0 +1,4 @@
+/home/yihan/opencv_project/build/CMakeFiles/rebuild_cache.dir
+/home/yihan/opencv_project/build/CMakeFiles/edit_cache.dir
+/home/yihan/opencv_project/build/CMakeFiles/TOOLS_STATIC.dir
+/home/yihan/opencv_project/build/CMakeFiles/shit.dir

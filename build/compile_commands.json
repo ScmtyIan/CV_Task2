@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yihan/opencv_project/build",
+  "command": "/usr/bin/c++   -I/usr/include/opencv4 -I/home/yihan/opencv_project/include  -g   -o CMakeFiles/TOOLS_STATIC.dir/tools/presentation.cpp.o -c /home/yihan/opencv_project/tools/presentation.cpp",
+  "file": "/home/yihan/opencv_project/tools/presentation.cpp"
+},
+{
+  "directory": "/home/yihan/opencv_project/build",
+  "command": "/usr/bin/c++   -I/home/yihan/opencv_project/include -isystem /usr/include/opencv4  -g   -o CMakeFiles/shit.dir/src/main.cpp.o -c /home/yihan/opencv_project/src/main.cpp",
+  "file": "/home/yihan/opencv_project/src/main.cpp"
+}
+]
